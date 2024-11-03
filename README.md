@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CS50
 - 📫 How to reach me https://www.linkedin.com/in/navdeep-saroha-99a5591a9/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love playing soccer.
+- ⚡ Fun fact: I love playing badminton.
 
 <!---
 navdeep-saroha/navdeep-saroha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
