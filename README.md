@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @navdeep-saroha
 - 👀 I’m interested in web development.
-- 🌱 I’m currently React
+- 🌱 I’m currently learning OOPS.
 - 📫 How to reach me https://www.linkedin.com/in/navdeep-saroha-99a5591a9/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing badminton.
